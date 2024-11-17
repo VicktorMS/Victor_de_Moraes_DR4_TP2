@@ -1,0 +1,289 @@
+[
+    {
+        "Nome": "João",
+        "Idade": "25",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Ana, Carlos, Marcos"
+    },
+    {
+        "Nome": "Ana",
+        "Idade": "22",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "João, Fernanda"
+    },
+    {
+        "Nome": "Carlos",
+        "Idade": "30",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "João, Marcos, Caio"
+    },
+    {
+        "Nome": "Fernanda",
+        "Idade": "28",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Ana"
+    },
+    {
+        "Nome": "Marcos",
+        "Idade": "27",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "João, Carlos"
+    },
+    {
+        "Nome": "Clara",
+        "Idade": "26",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Fernanda, Lívia"
+    },
+    {
+        "Nome": "Lívia",
+        "Idade": "24",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Clara, Lucas, Marcos"
+    },
+    {
+        "Nome": "Lucas",
+        "Idade": "31",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Lívia, Fernando"
+    },
+    {
+        "Nome": "Fernando",
+        "Idade": "29",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Lucas, Aline"
+    },
+    {
+        "Nome": "Aline",
+        "Idade": "23",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Fernando, Caio, Clara"
+    },
+    {
+        "Nome": "Caio",
+        "Idade": "27",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Aline, Clara"
+    },
+    {
+        "Nome": "Sofia",
+        "Idade": "21",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Rafaela, Fernanda"
+    },
+    {
+        "Nome": "Rafaela",
+        "Idade": "22",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Sofia, Clara"
+    },
+    {
+        "Nome": "Mateus",
+        "Idade": "32",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Caio, Fernando, João"
+    },
+    {
+        "Nome": "Tiago",
+        "Idade": "28",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Mateus, Lívia, Aline"
+    },
+    {
+        "Nome": "Paulo",
+        "Idade": "33",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Tiago, Fernanda, Lucas"
+    },
+    {
+        "Nome": "Juliana",
+        "Idade": "25",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Rafaela, Sofia, Marcos"
+    },
+    {
+        "Nome": "Pedro",
+        "Idade": "26",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "João, Aline"
+    },
+    {
+        "Nome": "Amanda",
+        "Idade": "24",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Pedro, Caio, Lívia"
+    },
+    {
+        "Nome": "Bruno",
+        "Idade": "30",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Ana, Marcos, Mateus"
+    },
+    {
+        "Nome": "Carla",
+        "Idade": "29",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Fernando, Tiago, Lucas"
+    },
+    {
+        "Nome": "Gabriela",
+        "Idade": "27",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Carla, Aline, Rafaela"
+    },
+    {
+        "Nome": "None",
+        "Idade": "22",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Bruno, Clara"
+    },
+    {
+        "Nome": "Thiago",
+        "Idade": "31",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "João, Amanda, Lucas, Clara"
+    },
+    {
+        "Nome": "Renata",
+        "Idade": "23",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Clara, Fernando, Sofia"
+    },
+    {
+        "Nome": "Leonardo",
+        "Idade": "29",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Renata, Mateus, Caio"
+    },
+    {
+        "Nome": "Camila",
+        "Idade": "28",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Juliana, Bruno, Lucas, Caio"
+    },
+    {
+        "Nome": "Felipe",
+        "Idade": "27",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Renata, Carla"
+    },
+    {
+        "Nome": "Mariana",
+        "Idade": "30",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Felipe, Lívia, Fernando"
+    },
+    {
+        "Nome": "Daniel",
+        "Idade": "25",
+        "Cidade": "N/A",
+        "Estado": "N/A",
+        "Amigos": "Camila, Paulo, Amanda"
+    },
+    {
+        "Nome": "Victor",
+        "Idade": "20",
+        "Cidade": "Xique xique",
+        "Estado": "Bahia",
+        "Amigos": ""
+    },
+    {
+        "Nome": "Ana",
+        "Idade": "25",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Amigos": ""
+    },
+    {
+        "Nome": "Carlos",
+        "Idade": "30",
+        "Cidade": "Rio de Janeiro",
+        "Estado": "Rio de Janeiro",
+        "Amigos": ""
+    },
+    {
+        "Nome": "Mariana",
+        "Idade": "22",
+        "Cidade": "Curitiba",
+        "Estado": "Paraná",
+        "Amigos": ""
+    },
+    {
+        "Nome": "Lucas",
+        "Idade": "28",
+        "Cidade": "Belo Horizonte",
+        "Estado": "Minas Gerais",
+        "Amigos": ""
+    },
+    {
+        "Nome": "Victor",
+        "Idade": "20",
+        "Cidade": "Xique xique",
+        "Estado": "Bahia",
+        "Amigos": ""
+    },
+    {
+        "Nome": "Ana",
+        "Idade": "25",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Amigos": ""
+    },
+    {
+        "Nome": "Carlos",
+        "Idade": "30",
+        "Cidade": "Rio de Janeiro",
+        "Estado": "Rio de Janeiro",
+        "Amigos": ""
+    },
+    {
+        "Nome": "Mariana",
+        "Idade": "22",
+        "Cidade": "Curitiba",
+        "Estado": "Paraná",
+        "Amigos": ""
+    },
+    {
+        "Nome": "Lucas",
+        "Idade": "28",
+        "Cidade": "Belo Horizonte",
+        "Estado": "Minas Gerais",
+        "Amigos": ""
+    },
+    {
+        "Nome": "Victor",
+        "Idade": "21",
+        "Cidade": "Caxias",
+        "Estado": "Rio de Janeiro",
+        "Amigos": ""
+    }
+]
